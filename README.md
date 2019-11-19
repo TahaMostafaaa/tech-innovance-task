@@ -28,7 +28,7 @@ For convenience, we have a live API server running at : https://www.football-dat
     - List of leagues.
 - Teams Page (URL: /leagues/{id} )
     - List of teams in the clicked league.
-- Players page (URL: /#/settings )
+- Players page (URL: /leagues/{id}/teams/{teamId} )
     - List of players in the clicked teams.
 
 ## License
